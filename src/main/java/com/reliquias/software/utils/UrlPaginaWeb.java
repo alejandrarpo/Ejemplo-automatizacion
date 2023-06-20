@@ -10,6 +10,4 @@ public enum UrlPaginaWeb {
     PAGINA_INICIO_SESION_SWAG_LABS("https://www.saucedemo.com/");
 
     private final String url;
-
-    
 }
